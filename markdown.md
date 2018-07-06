@@ -41,4 +41,3 @@ Perintah `apt-get` adalah perintah untuk menginstall paket di Ubuntu.
 https://www.petanikode.com/
 
 
-
