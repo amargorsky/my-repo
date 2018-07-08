@@ -3,7 +3,7 @@
 ### Heading 3
 
 
-**Tebal**
+ini **Tebal**
 *miring*
 ~~strikeline~~
 
